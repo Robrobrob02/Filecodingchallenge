@@ -1,0 +1,100 @@
+body{
+  background-image: url("C:/Users/Nicky/Desktop/programmazione/cv/background.jpg");
+  background-size: cover;
+  margin: auto;
+}
+
+ header{
+  text-align: center;
+  margin-top: 20px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+#logo{
+  width: 250px;
+  margin-top: 100px;
+}
+
+#titolo{
+  color: lime;
+  font-size: 33px;
+  line-height: 0.1;
+  font-family: sans-serif;
+}
+
+main{
+  padding: 8px;
+}
+
+.sfondonero{
+  padding: inherit;
+  background-color: rgba(0, 0, 0, 0.5);
+  margin-left: 350px;
+  margin-right: 350px;
+  border-radius: 20px;
+}
+}
+main{
+  width: 400px;
+}
+
+main{
+
+}
+.button{
+  background-color: lime;
+  text-align: center;
+  width: 1000px;
+  margin: auto;
+  padding: 10px;;
+}
+.corpo{
+  margin-left: 83px;
+  margin-top: 30px;
+
+}
+
+.proprietari{
+  color: white;
+  font-family: sans-serif;
+  font-size: 30px;
+  line-height: 0.2
+}
+
+.indicazioni{
+  color: white;
+  font-family: sans-serif;
+  margin-left: 83px;
+  font-size: 20px;
+  line-height: 0.1
+}
+#arancione{
+  background-color: orange;
+  font-family: sans-serif;
+  color: white;
+  margin-left: 83px;
+  width: 400px;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+#verde{
+  background-color: green;
+  font-family: sans-serif;
+  color: white;
+  margin-left: 83px;
+  width: 800px;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+#rosso{
+  background-color: red;
+  font-family: sans-serif;
+  color: white;
+  margin-left: 83px;
+  width: 130px;
+  padding: 5px;
+  border-radius: 5px;
+}
