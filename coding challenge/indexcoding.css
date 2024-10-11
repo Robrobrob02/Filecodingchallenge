@@ -65,7 +65,7 @@ main{
 .indicazioni{
   color: white;
   font-family: sans-serif;
-  margin-left: 83px;
+
   font-size: 20px;
   line-height: 0.1
 }
@@ -73,7 +73,6 @@ main{
   background-color: orange;
   font-family: sans-serif;
   color: white;
-  margin-left: 83px;
   width: 400px;
   padding: 5px;
   border-radius: 5px;
@@ -83,7 +82,6 @@ main{
   background-color: green;
   font-family: sans-serif;
   color: white;
-  margin-left: 83px;
   width: 800px;
   padding: 5px;
   border-radius: 5px;
@@ -93,8 +91,8 @@ main{
   background-color: red;
   font-family: sans-serif;
   color: white;
-  margin-left: 83px;
   width: 130px;
   padding: 5px;
   border-radius: 5px;
 }
+
